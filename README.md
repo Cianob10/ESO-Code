@@ -1,5 +1,5 @@
 # ESO-Code
-Jupyter notebooks for final year project 'Valuing employee stock options'.
+Jupyter notebooks for final year project 'Valuing Employee Stock Options'.
 
 'Analytic Formulae' implements analytic expresssions for ESO prices as derived by Cvitanic, Jaksa et al. in 'Analytic Pricing of Employee Stock Options'.
 
